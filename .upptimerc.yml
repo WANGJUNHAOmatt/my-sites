@@ -18,10 +18,10 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This page is use Upptime [(GitHub repository)](https://github.com/upptime/upptime).
   navbar:
-    - title: Status
-      href: /
+    - title: Personal Space
+      href: https://notes.zustcv.fun
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/WANGJUNHAOmatt/my-sites
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
