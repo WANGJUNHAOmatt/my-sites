@@ -4,18 +4,20 @@
     "url": "https://zustcv.fun/api/wx/",
     "icon": "https://favicons.githubusercontent.com/zustcv.fun",
     "slug": "wx-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 799,
+    "timeDay": 677,
     "timeWeek": 799,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-28": 0
+    }
   },
   {
     "name": "digital-garden",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 315,
+    "timeDay": 257,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
