@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/zustcv.fun",
     "slug": "wx-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "74.60%",
+    "uptimeDay": "64.64%",
+    "uptimeWeek": "74.60%",
+    "uptimeMonth": "74.60%",
+    "uptimeYear": "74.60%",
     "time": 799,
-    "timeDay": 677,
+    "timeDay": 0,
     "timeWeek": 799,
     "timeMonth": 799,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2022-08-28": 0
+      "2022-08-29": 78,
+      "2022-08-28": 431
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 257,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 322,
+    "timeDay": 343,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   }
 ]
