@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zustcv.fun",
     "slug": "wx-backend",
     "status": "up",
-    "uptime": "65.81%",
-    "uptimeDay": "38.68%",
-    "uptimeWeek": "65.81%",
-    "uptimeMonth": "65.81%",
-    "uptimeYear": "65.81%",
+    "uptime": "68.17%",
+    "uptimeDay": "60.63%",
+    "uptimeWeek": "68.17%",
+    "uptimeMonth": "68.17%",
+    "uptimeYear": "68.17%",
     "time": 820,
-    "timeDay": 749,
+    "timeDay": 653,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2022-08-31": 226,
+      "2022-08-31": 220,
       "2022-08-30": 657,
       "2022-08-29": 570,
       "2022-08-28": 431
@@ -27,7 +27,7 @@
     "url": "https://notes.zustcv.fun",
     "icon": "https://favicons.githubusercontent.com/notes.zustcv.fun",
     "slug": "digital-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
